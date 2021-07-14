@@ -278,6 +278,10 @@ nav {
     text-align: center;
 }
 
+.match-timeline .title {
+    margin-top: 4rem !important;
+}
+
 .timeline-image {
     height: 100px;
     padding: 1rem;
