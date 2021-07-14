@@ -267,7 +267,7 @@ nav {
     border-radius: 10px;
 }
 
-.match-timeline .title {
+.match-timeline h1 {
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
